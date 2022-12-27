@@ -81,7 +81,7 @@ query-string==2019.4.13
 request==2019.4.13
 requests==2.20.1
 rethinkdb==2.4.4.post1
-setuptools==40.6.2
+setuptools==65.5.1
 simplejson==3.13.2
 six==1.14.0
 soupsieve==1.9.1
